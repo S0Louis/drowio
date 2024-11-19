@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2861" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2631" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-75" value="查询SQL为什么没有&lt;div&gt;distinct??&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#e3c800;strokeColor=#B09500;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="1050" y="30" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="详情页" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="120" width="1560" height="500" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="eU4avIr93L6JoO_hdqMd-11" target="eU4avIr93L6JoO_hdqMd-12">
@@ -221,7 +221,7 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eU4avIr93L6JoO_hdqMd-86" target="eU4avIr93L6JoO_hdqMd-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-94" value="招标大厅" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+        <mxCell id="eU4avIr93L6JoO_hdqMd-94" value="投标单" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="992" width="1580" height="620" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-95" value="列表查询" style="swimlane;html=1;startSize=20;horizontal=0;align=center;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-94">
@@ -371,9 +371,6 @@
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-142" value="主系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="250" y="922" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-143" value="1. 角色类型=采购员&lt;div style=&quot;&quot;&gt;2. 招标单状态=投标中(50)、评标中（60）、定标中、已定标、已废标、已流标、已发布&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3.&amp;nbsp;地铁图表存在的状态=已发布&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4. xx删除标识=0（未删除）&lt;/div&gt;&lt;div style=&quot;cursor: wait;&quot;&gt;5. 地铁图里面存在该招标单记录并且状态=已发布&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="870" width="460" height="92" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-144" value="组装数据响应" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1435" y="1142" width="140" height="60" as="geometry" />
