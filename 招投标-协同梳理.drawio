@@ -95,7 +95,7 @@
           <mxGeometry x="490" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-57" value="查询条件：&lt;div&gt;1. 招标单号；&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. 模块标识：&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;单据归属信息、&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;基础信息、&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;采购明细、&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;招标文件、&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;供应商&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="630" y="110" width="120" height="120" as="geometry" />
+          <mxGeometry x="650" y="110" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="eU4avIr93L6JoO_hdqMd-58" target="eU4avIr93L6JoO_hdqMd-73">
           <mxGeometry relative="1" as="geometry" />
