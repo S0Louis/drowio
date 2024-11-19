@@ -103,11 +103,32 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-58" value="查询招投标主单&lt;br&gt;且状态=上图中的2说明" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="620" y="30" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="eU4avIr93L6JoO_hdqMd-73" target="eU4avIr93L6JoO_hdqMd-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-73" value="查询单据归属信息&lt;div&gt;1. 查询招标单状态；&lt;/div&gt;&lt;div&gt;2. 查询招标小组（条件：招标单号、采购员）；&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="790" y="25" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-78" value="&lt;div&gt;判断是否需要查询基础信息&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 查询招标单状态；&lt;/div&gt;&lt;div&gt;2. 查询招标小组（条件：招标单号、采购员）；&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="790" y="110" width="260" height="70" as="geometry" />
+        <mxCell id="eU4avIr93L6JoO_hdqMd-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="eU4avIr93L6JoO_hdqMd-78" target="eU4avIr93L6JoO_hdqMd-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-78" value="&lt;div&gt;判断是否需要查询基础信息&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1. 查询招标单主表；&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. 查询招标策略；&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="790" y="120" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="eU4avIr93L6JoO_hdqMd-80" target="eU4avIr93L6JoO_hdqMd-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-80" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;判断是否需要查询招标文件&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 查询招标文件表；&lt;/span&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="790" y="210" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="eU4avIr93L6JoO_hdqMd-82" target="eU4avIr93L6JoO_hdqMd-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-82" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;判断是否需要查询采购明细&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 查询采购明细表；&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="790" y="282" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-84" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;判断招标&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;供应商&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 查询供应商招标明细表；&lt;/span&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="790" y="353" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="620" width="1560" height="100" as="geometry" />
