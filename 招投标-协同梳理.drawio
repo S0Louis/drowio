@@ -480,10 +480,18 @@
           <mxGeometry x="220" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-262" value="1.校验当前登录人为该招标单中参与的供应商&lt;div&gt;2.&amp;nbsp;校验当前招标单据状态是否为已发布或投标中或评标中或定标中或已定标或已流标或已废标&lt;/div&gt;&lt;div&gt;3. 判断是否为参与供应商；&lt;/div&gt;&lt;div&gt;4. 通过单号校验投标单是否存在；&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;（状态=投标中，且&amp;nbsp; 投标结束时间小于当前时间） 或者 （是否已发起议价=为是，且 报价一阶段 并且 投标状态=投标评审） 则允许编辑&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-253">
-          <mxGeometry x="480" y="15" width="300" height="125" as="geometry" />
+          <mxGeometry x="480" y="11" width="300" height="125" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-266" value="是否有编辑权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-253">
           <mxGeometry x="30" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-268" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eU4avIr93L6JoO_hdqMd-253" target="eU4avIr93L6JoO_hdqMd-269">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-269" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-253">
+          <mxGeometry x="829.5" y="50" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-141" value="协同系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="160" y="922" width="70" height="30" as="geometry" />
