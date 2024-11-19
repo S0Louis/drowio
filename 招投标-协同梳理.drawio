@@ -127,8 +127,19 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-82" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;判断是否需要查询采购明细&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 查询采购明细表；&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="790" y="282" width="260" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="eU4avIr93L6JoO_hdqMd-84" target="eU4avIr93L6JoO_hdqMd-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="378" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-84" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;判断招标&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;供应商&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 查询供应商招标明细表；&lt;/span&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="790" y="353" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-86" value="判断响应数据&lt;div&gt;是否有该供应商&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#e3c800;strokeColor=#B09500;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="1120" y="30" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-89" value="先查数据再过滤？会不会造成大量DB连接占用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="1120" y="95" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="620" width="1560" height="100" as="geometry" />
