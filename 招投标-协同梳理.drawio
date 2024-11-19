@@ -252,7 +252,7 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eU4avIr93L6JoO_hdqMd-95" source="eU4avIr93L6JoO_hdqMd-107" target="eU4avIr93L6JoO_hdqMd-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-107" value="实体转换，价格加密&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
+        <mxCell id="eU4avIr93L6JoO_hdqMd-107" value="实体转换，数据加密&lt;div&gt;加密单价、计算总价&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
           <mxGeometry x="740" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eU4avIr93L6JoO_hdqMd-95" source="eU4avIr93L6JoO_hdqMd-109" target="eU4avIr93L6JoO_hdqMd-110">
