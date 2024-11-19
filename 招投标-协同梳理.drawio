@@ -70,7 +70,7 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-12" value="remote转发" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-51" value="&lt;div&gt;RfxBidOuterController&lt;br&gt;&lt;/div&gt;/rfx/outer&lt;span style=&quot;background-color: initial;&quot;&gt;/bid/list&lt;/span&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="eU4avIr93L6JoO_hdqMd-51" value="&lt;div&gt;RfxBidOuterController&lt;br&gt;&lt;/div&gt;/rfx/outer&lt;span style=&quot;background-color: initial;&quot;&gt;/bid/&lt;/span&gt;detail" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="300" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-49" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
