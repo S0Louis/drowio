@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="招标大厅" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="1310" height="470" as="geometry" />
+          <mxGeometry x="120" y="120" width="1580" height="470" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="列表查询" style="swimlane;html=1;startSize=20;horizontal=0;align=center;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="1290" height="120" as="geometry" />
+          <mxGeometry x="20" width="1560" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-23" target="dNxyNK7c78bLwvsdeMH5-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -40,7 +40,7 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-7" value="&lt;div&gt;RfxBidOuterController&lt;br&gt;&lt;/div&gt;/rfx/outer&lt;span style=&quot;background-color: initial;&quot;&gt;/bid/list&lt;/span&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="650" y="30" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="eU4avIr93L6JoO_hdqMd-37" target="eU4avIr93L6JoO_hdqMd-40">
+        <mxCell id="eU4avIr93L6JoO_hdqMd-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="eU4avIr93L6JoO_hdqMd-37" target="eU4avIr93L6JoO_hdqMd-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-37" value="封装查询条件+vendorCode" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
@@ -50,13 +50,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-40" value="组装数据响应" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="1030.5" y="30" width="140" height="60" as="geometry" />
+          <mxGeometry x="1260" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-46" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="1220" y="40" width="40" height="40" as="geometry" />
+          <mxGeometry x="1449.5" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="eU4avIr93L6JoO_hdqMd-75" target="eU4avIr93L6JoO_hdqMd-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-75" value="查询SQL为什么没有&lt;div&gt;distinct??&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#e3c800;strokeColor=#B09500;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="1050" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="120" width="1290" height="230" as="geometry" />
+          <mxGeometry x="20" y="120" width="1560" height="230" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="eU4avIr93L6JoO_hdqMd-11" target="eU4avIr93L6JoO_hdqMd-12">
           <mxGeometry relative="1" as="geometry" />
@@ -91,11 +97,17 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-57" value="查询条件：&lt;div&gt;1. 招标单号；&lt;/div&gt;&lt;div&gt;2. 模块标识：单据归属信息、基础信息、采购明细、招标文件、供应商&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="280" y="90" width="460" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="eU4avIr93L6JoO_hdqMd-58" target="eU4avIr93L6JoO_hdqMd-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-58" value="查询招投标主单&lt;br&gt;且状态=上图中的2说明" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="620" y="30" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-73" value="查询单据归属信息" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="800" y="30" width="260" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="350" width="1290" height="120" as="geometry" />
+          <mxGeometry x="20" y="350" width="1560" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-5" value="协同系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="150" y="50" width="70" height="30" as="geometry" />
