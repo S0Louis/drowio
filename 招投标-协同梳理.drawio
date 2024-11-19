@@ -82,11 +82,17 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-54" value="招标单号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="220" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-55" value="封装查询条件" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="eU4avIr93L6JoO_hdqMd-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="eU4avIr93L6JoO_hdqMd-55" target="eU4avIr93L6JoO_hdqMd-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-55" value="&lt;font color=&quot;#ff3333&quot;&gt;封装查询条件&lt;/font&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="490" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-57" value="查询条件：&lt;div&gt;1. 招标单号；&lt;/div&gt;&lt;div&gt;2. 模块标识：单据归属信息、基础信息、采购明细、招标文件、供应商&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="280" y="90" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-58" value="查询招投标主单&lt;br&gt;且状态=上图中的2说明" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="620" y="30" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="350" width="1290" height="120" as="geometry" />
