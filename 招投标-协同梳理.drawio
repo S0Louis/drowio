@@ -272,7 +272,7 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="eU4avIr93L6JoO_hdqMd-95" source="eU4avIr93L6JoO_hdqMd-151" target="eU4avIr93L6JoO_hdqMd-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-151" value="实体转换，数据加密&lt;div&gt;加密单价、计算总价&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
+        <mxCell id="eU4avIr93L6JoO_hdqMd-151" value="&lt;div&gt;RfxVoteController&lt;br&gt;&lt;/div&gt;&lt;div&gt;/rfx/vote/bargainVote&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
           <mxGeometry x="278" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-113" value="投标编辑" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-94">
