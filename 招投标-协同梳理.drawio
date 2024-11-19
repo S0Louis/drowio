@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2631" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2546" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,32 +242,38 @@
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-101" value="数据校验&lt;div&gt;1. 检查bidno是否为空&lt;/div&gt;&lt;div&gt;2. 检查校验当前登录人为该招标单中参与的供应商&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;招标单据=已发布或投标中或评标中或定标中或已定标或已流标或已废标&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;校验投标状态=【未投标】&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;校验当前登录人为该招标单中的参与供应商&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;校验投标文件是否正确&lt;/div&gt;&lt;div&gt;1. 校验文件信息不能为空&lt;/div&gt;&lt;div&gt;2. 校验招标一步还是两步，判断技术文件和价格文件是否为空&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;基础数据校验&lt;/div&gt;&lt;div&gt;1. 价格开始、结果日期是否为空；&lt;/div&gt;&lt;div&gt;2. 采购明细必须在库性校验；&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
-          <mxGeometry x="274" y="30" width="416" height="220" as="geometry" />
+          <mxGeometry x="458" y="30" width="416" height="220" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eU4avIr93L6JoO_hdqMd-95" target="eU4avIr93L6JoO_hdqMd-107">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="60" as="sourcePoint" />
+            <mxPoint x="874" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-107" value="实体转换，数据加密&lt;div&gt;加密单价、计算总价&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
-          <mxGeometry x="740" y="30" width="140" height="60" as="geometry" />
+          <mxGeometry x="924" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eU4avIr93L6JoO_hdqMd-95" source="eU4avIr93L6JoO_hdqMd-109" target="eU4avIr93L6JoO_hdqMd-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-109" value="数据保存" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
-          <mxGeometry x="950" y="30" width="140" height="60" as="geometry" />
+          <mxGeometry x="1134" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-110" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
-          <mxGeometry x="1139.5" y="40" width="40" height="40" as="geometry" />
+          <mxGeometry x="1323.5" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eU4avIr93L6JoO_hdqMd-95" target="eU4avIr93L6JoO_hdqMd-109">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="60" as="sourcePoint" />
+            <mxPoint x="1064" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-149" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
-          <mxGeometry x="210" y="68" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="eU4avIr93L6JoO_hdqMd-95" source="eU4avIr93L6JoO_hdqMd-151" target="eU4avIr93L6JoO_hdqMd-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-151" value="实体转换，数据加密&lt;div&gt;加密单价、计算总价&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
+          <mxGeometry x="278" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-113" value="投标编辑" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-94">
           <mxGeometry x="20" y="320" width="1560" height="500" as="geometry" />
@@ -357,17 +363,17 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-140" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-113">
           <mxGeometry x="1466.5" y="40" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-144" value="组装数据响应" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-113">
+          <mxGeometry x="1310" y="60" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eU4avIr93L6JoO_hdqMd-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eU4avIr93L6JoO_hdqMd-113" source="eU4avIr93L6JoO_hdqMd-137" target="eU4avIr93L6JoO_hdqMd-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-141" value="协同系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="160" y="922" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-142" value="主系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="250" y="922" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-144" value="组装数据响应" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="1142" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eU4avIr93L6JoO_hdqMd-137" target="eU4avIr93L6JoO_hdqMd-144">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-147" value="RfxBidController" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="90" width="120" height="40" as="geometry" />
@@ -377,8 +383,8 @@
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="399" y="1052" as="sourcePoint" />
-            <mxPoint x="424" y="1052" as="targetPoint" />
+            <mxPoint x="403" y="1052" as="sourcePoint" />
+            <mxPoint x="428" y="1052" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
