@@ -246,14 +246,14 @@
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eU4avIr93L6JoO_hdqMd-95" target="eU4avIr93L6JoO_hdqMd-107">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="60" as="sourcePoint" />
+            <mxPoint x="690" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eU4avIr93L6JoO_hdqMd-95" source="eU4avIr93L6JoO_hdqMd-107" target="eU4avIr93L6JoO_hdqMd-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-107" value="封装查询条件+vendorCode" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
-          <mxGeometry x="840" y="30" width="140" height="60" as="geometry" />
+        <mxCell id="eU4avIr93L6JoO_hdqMd-107" value="实体转换，价格加密&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="eU4avIr93L6JoO_hdqMd-95">
+          <mxGeometry x="740" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eU4avIr93L6JoO_hdqMd-95" source="eU4avIr93L6JoO_hdqMd-109" target="eU4avIr93L6JoO_hdqMd-110">
           <mxGeometry relative="1" as="geometry" />
