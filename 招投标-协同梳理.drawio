@@ -609,9 +609,6 @@
         <mxCell id="eU4avIr93L6JoO_hdqMd-318" value="主系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="250" y="2171" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eU4avIr93L6JoO_hdqMd-319" value="1. 角色类型=采购员&lt;div style=&quot;&quot;&gt;2. 招标单状态=投标中(50)、评标中（60）、定标中、已定标、已废标、已流标、已发布&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3.&amp;nbsp;地铁图表存在的状态=已发布&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4. xx删除标识=0（未删除）&lt;/div&gt;&lt;div style=&quot;cursor: wait;&quot;&gt;5. 地铁图里面存在该招标单记录并且状态=已发布&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="2121" width="460" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="eU4avIr93L6JoO_hdqMd-322" value="RfxNewsController" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="130" y="2211" width="120" height="40" as="geometry" />
         </mxCell>
