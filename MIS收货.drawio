@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1285" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2175" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -24,7 +24,7 @@
         <mxCell id="zNMiChRaGcJFo_TWJvuN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zNMiChRaGcJFo_TWJvuN-2" target="zNMiChRaGcJFo_TWJvuN-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zNMiChRaGcJFo_TWJvuN-2" value="记录请求日志&lt;div&gt;HH_MIS_GR_REQ_LOG&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zNMiChRaGcJFo_TWJvuN-2" value="记录请求日志&lt;div&gt;HH_MIS_GR_REQ_LOG&lt;/div&gt;&lt;div&gt;失败补偿，通过该日志进行&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="152.5" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="zNMiChRaGcJFo_TWJvuN-5" value="MIS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -98,7 +98,7 @@
         <mxCell id="zNMiChRaGcJFo_TWJvuN-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zNMiChRaGcJFo_TWJvuN-30" target="zNMiChRaGcJFo_TWJvuN-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zNMiChRaGcJFo_TWJvuN-30" value="记录请求日志&lt;div&gt;HH_MIS_GR_REQ_LOG&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zNMiChRaGcJFo_TWJvuN-30" value="记录请求日志&lt;div&gt;HH_MIS_GR_REQ_LOG&lt;/div&gt;&lt;div&gt;失败补偿，通过该日志进行&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="382.5" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="zNMiChRaGcJFo_TWJvuN-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zNMiChRaGcJFo_TWJvuN-32" target="zNMiChRaGcJFo_TWJvuN-34">
@@ -204,6 +204,9 @@
         </mxCell>
         <mxCell id="zNMiChRaGcJFo_TWJvuN-63" value="返回MIS结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1860" y="382.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="zNMiChRaGcJFo_TWJvuN-69" value="逻辑要求删除" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1050" y="352.5" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
