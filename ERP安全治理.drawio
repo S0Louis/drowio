@@ -137,6 +137,9 @@
         <mxCell id="8vCqDVryyGe6K3zFYiti-48" value="将公网逻辑内嵌至各业务系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="1190" width="210" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8vCqDVryyGe6K3zFYiti-49" value="ERP网关承担所有公网对接前端职责&lt;div&gt;新系统开通公网，只需接入网关层即可&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="1025" width="290" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
