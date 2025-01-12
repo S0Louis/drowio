@@ -1,49 +1,164 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.0.5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="e9vV8dxpypu-1kN144cJ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="e9vV8dxpypu-1kN144cJ-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="数量库存-入库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="150" y="130" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="e9vV8dxpypu-1kN144cJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-0" target="e9vV8dxpypu-1kN144cJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-0" value="提交流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-4" target="e9vV8dxpypu-1kN144cJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-4" value="单号填充" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-6" target="e9vV8dxpypu-1kN144cJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-6" value="入库信息存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-8" target="e9vV8dxpypu-1kN144cJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-8" value="如果是领用归还入库，则更新对应出库单的归还量&lt;div&gt;其他入库类型忽略该流程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="75" y="460" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-10" target="e9vV8dxpypu-1kN144cJ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-10" value="审核通过后，更新现有库存量和库存可用量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-12" value="&lt;div style=&quot;background-color:#1d1d26;color:#c9c9d1&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:12.0pt;&quot;&gt;&lt;span style=&quot;background-color:#123020;&quot;&gt;e_qty_info&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="530" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-14" target="e9vV8dxpypu-1kN144cJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-14" value="数量库存-出库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-16" target="e9vV8dxpypu-1kN144cJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-16" value="提交流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-18" target="e9vV8dxpypu-1kN144cJ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-18" value="单号填充" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="e9vV8dxpypu-1kN144cJ-20" value="出库信息存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-23" value="审核通过后，更新现有库存量和库存可用量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-26" value="&lt;div style=&quot;background-color: rgb(29, 29, 38); color: rgb(201, 201, 209);&quot;&gt;&lt;pre style=&quot;font-family:&#39;Menlo-Regular&#39;,monospace;font-size:12.0pt;&quot;&gt;&lt;span style=&quot;color: rgb(90, 110, 90); font-style: italic;&quot;&gt;占用量 &lt;/span&gt;&lt;span style=&quot;color: rgb(90, 110, 90); font-style: italic; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;color: rgb(90, 110, 90); font-style: italic;&quot;&gt;原占用量&lt;/span&gt;&lt;span style=&quot;color: rgb(90, 110, 90); font-style: italic; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;color: rgb(90, 110, 90); font-style: italic;&quot;&gt;明细行数量 ；&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;Menlo-Regular&#39;,monospace;font-size:12.0pt;&quot;&gt;&lt;span style=&quot;color: rgb(90, 110, 90); font-style: italic;&quot;&gt;可用量 &lt;/span&gt;&lt;span style=&quot;color: rgb(90, 110, 90); font-style: italic; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;=  &lt;/span&gt;&lt;span style=&quot;color: rgb(90, 110, 90); font-style: italic;&quot;&gt;现有量 &lt;/span&gt;&lt;span style=&quot;color: rgb(90, 110, 90); font-style: italic; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;- &lt;/span&gt;&lt;span style=&quot;color: rgb(90, 110, 90); font-style: italic;&quot;&gt;占用量&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="420" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-27" value="库存记录不存在，则插入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="630" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-30" target="e9vV8dxpypu-1kN144cJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-30" value="数量库存-调拨" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-32" target="e9vV8dxpypu-1kN144cJ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-32" value="提交流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-34" target="e9vV8dxpypu-1kN144cJ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-34" value="单号填充" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1075" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        <mxCell id="e9vV8dxpypu-1kN144cJ-36" value="调拨信息存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="360" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="e9vV8dxpypu-1kN144cJ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-37" target="e9vV8dxpypu-1kN144cJ-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="e9vV8dxpypu-1kN144cJ-37" value="更新调拨库存的占用量和可用量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="440" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-38" target="e9vV8dxpypu-1kN144cJ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-38" value="提交审批流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-40" value="生成出库单和入库单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="600" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-43" target="e9vV8dxpypu-1kN144cJ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-43" value="数量库存-盘点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-45" target="e9vV8dxpypu-1kN144cJ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-45" value="提交流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-47" target="e9vV8dxpypu-1kN144cJ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-47" value="单号填充" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1305" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-49" value="调拨信息存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="360" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        <mxCell id="e9vV8dxpypu-1kN144cJ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-51" target="e9vV8dxpypu-1kN144cJ-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="e9vV8dxpypu-1kN144cJ-51" value="更新调拨库存的占用量和可用量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="440" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="e9vV8dxpypu-1kN144cJ-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e9vV8dxpypu-1kN144cJ-53" target="e9vV8dxpypu-1kN144cJ-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-53" value="提交审批流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vV8dxpypu-1kN144cJ-54" value="生成出库单和入库单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="600" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
