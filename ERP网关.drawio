@@ -28,8 +28,20 @@
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-5" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;ERP网关&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;setCookie接口&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2040" y="2180" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-7" target="u7i3xi5Uhb7KE1gBmgRL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-7" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;ERP网关&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;setCookie接口&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1850" y="2180" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-9" target="u7i3xi5Uhb7KE1gBmgRL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-9" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;ERP网关&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Appid查询域名&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1660" y="2180" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-11" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;ERP网关&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;cookie种植至域名下&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1470" y="2180" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
