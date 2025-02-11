@@ -97,7 +97,7 @@
           <mxGeometry x="-1620" y="2480" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-31" value="&lt;font face=&quot;Helvetica&quot;&gt;需要解决跨域问题&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2330" y="2430" width="180" height="50" as="geometry" />
+          <mxGeometry x="-2320" y="2410" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-32" target="u7i3xi5Uhb7KE1gBmgRL-34">
           <mxGeometry relative="1" as="geometry" />
