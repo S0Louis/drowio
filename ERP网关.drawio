@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;passport界面&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;登录成功&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2420" y="2180" width="130" height="50" as="geometry" />
+          <mxGeometry x="-2425" y="2180" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-3" target="u7i3xi5Uhb7KE1gBmgRL-5">
           <mxGeometry relative="1" as="geometry" />
