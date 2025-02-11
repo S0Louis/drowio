@@ -8,7 +8,7 @@
           <mxGeometry x="-2220" y="930" width="1348.92" height="857" as="geometry" />
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-1" value="1. passport回调" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2440" y="2090" width="160" height="40" as="geometry" />
+          <mxGeometry x="-2430" y="2130" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-2" target="u7i3xi5Uhb7KE1gBmgRL-3">
           <mxGeometry relative="1" as="geometry" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-11" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;ERP网关&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;cookie种植至域名下&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1470" y="2180" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-13" value="网关对接Passport支持业务域名方案" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2050" y="2060" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
