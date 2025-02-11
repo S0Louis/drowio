@@ -49,6 +49,53 @@
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-14" value="2. 网关调用方请求服务方流程" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2425" y="2298" width="265" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-15" target="u7i3xi5Uhb7KE1gBmgRL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-15" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;调用方请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2415" y="2350" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-18" target="u7i3xi5Uhb7KE1gBmgRL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-18" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;ERP网关&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2230" y="2350" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-20" target="u7i3xi5Uhb7KE1gBmgRL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-20" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;校验请求接口是否需要passport验证&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2040" y="2340" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-22" target="u7i3xi5Uhb7KE1gBmgRL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-22" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;读取cookie&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1830" y="2340" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-24" target="u7i3xi5Uhb7KE1gBmgRL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="u7i3xi5Uhb7KE1gBmgRL-27">
+          <mxGeometry x="-0.35" y="-5" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-24" target="u7i3xi5Uhb7KE1gBmgRL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-24" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;判断ticket是否有效&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1620" y="2340" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-26" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;转发至业务系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1390" y="2340" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-29" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;组装重定向至业务前端&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1620" y="2480" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-31" value="&lt;font face=&quot;Helvetica&quot;&gt;需要解决跨域问题&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2330" y="2430" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
