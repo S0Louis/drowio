@@ -44,7 +44,7 @@
           <mxGeometry x="-1470" y="2180" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-13" value="网关对接Passport支持业务域名方案" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2050" y="2060" width="310" height="40" as="geometry" />
+          <mxGeometry x="-2050" y="2070" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-14" value="2. 网关调用方请求服务方流程" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2425" y="2298" width="265" height="40" as="geometry" />
@@ -97,16 +97,19 @@
           <mxGeometry x="-1620" y="2480" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-31" value="&lt;font face=&quot;Helvetica&quot;&gt;需要解决跨域问题&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2320" y="2410" width="180" height="50" as="geometry" />
+          <mxGeometry x="-2255" y="2410" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u7i3xi5Uhb7KE1gBmgRL-32" target="u7i3xi5Uhb7KE1gBmgRL-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-32" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;用户信息设置header中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-32" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;用户信息设置header中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fontStyle=1;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1180" y="2340" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-34" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;转发至服务提供方&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-970" y="2340" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-36" value="1. 申请域名，DNS解析为调用方前端；&lt;div&gt;2. 申请passport，相关信息维护在ERP网关；&lt;/div&gt;&lt;div&gt;3. passport 回调地址配置为ERP网关的setCooke；&lt;/div&gt;&lt;div&gt;4. 服务方根据ERP网关转发时携带的cookie或header识别用户信息;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2425" y="2500" width="450" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
