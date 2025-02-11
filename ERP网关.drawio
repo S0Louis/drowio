@@ -46,6 +46,9 @@
         <mxCell id="u7i3xi5Uhb7KE1gBmgRL-13" value="网关对接Passport支持业务域名方案" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2050" y="2060" width="310" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="u7i3xi5Uhb7KE1gBmgRL-14" value="2. 网关调用方请求服务方流程" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2425" y="2298" width="265" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
