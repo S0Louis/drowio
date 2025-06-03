@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ueZprSyfjsTpokdEeaGI-23" value="&lt;font face=&quot;Helvetica&quot;&gt;SRM-BASE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="76" y="511" width="83" height="30" as="geometry" />
+          <mxGeometry x="80" y="511" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ueZprSyfjsTpokdEeaGI-26" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=mxgraph.alibaba_cloud.dns_domain_name_system;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="318.09" y="253" width="50.83" height="50" as="geometry" />
@@ -135,8 +135,11 @@
         <mxCell id="ueZprSyfjsTpokdEeaGI-47" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;Redis&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="109" y="780" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ueZprSyfjsTpokdEeaGI-48" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;Oracle&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="333.50000000000006" y="780" width="80" height="80" as="geometry" />
+        <mxCell id="ueZprSyfjsTpokdEeaGI-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ueZprSyfjsTpokdEeaGI-48" target="ueZprSyfjsTpokdEeaGI-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ueZprSyfjsTpokdEeaGI-48" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;Oracle(&lt;/font&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 14px;&quot;&gt;主&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;)&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="266.00000000000006" y="780" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ueZprSyfjsTpokdEeaGI-49" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Helvetica&quot;&gt;Gift&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="780" width="80" height="80" as="geometry" />
@@ -147,10 +150,10 @@
             <mxPoint x="340" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ueZprSyfjsTpokdEeaGI-51" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.516;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ueZprSyfjsTpokdEeaGI-32" target="ueZprSyfjsTpokdEeaGI-48">
+        <mxCell id="ueZprSyfjsTpokdEeaGI-51" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.394;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ueZprSyfjsTpokdEeaGI-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="750" as="sourcePoint" />
-            <mxPoint x="180" y="820" as="targetPoint" />
+            <mxPoint x="305" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ueZprSyfjsTpokdEeaGI-52" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.879;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ueZprSyfjsTpokdEeaGI-32" target="ueZprSyfjsTpokdEeaGI-49">
@@ -164,6 +167,18 @@
         </mxCell>
         <mxCell id="ueZprSyfjsTpokdEeaGI-54" value="&lt;font face=&quot;Helvetica&quot;&gt;分布式锁+缓存&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="89" y="712.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ueZprSyfjsTpokdEeaGI-56" value="VIP：10.88.128.231" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="84" y="870" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ueZprSyfjsTpokdEeaGI-57" value="VIP：erpdb.intra.didichuxing.com" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="267.75" y="870" width="211.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ueZprSyfjsTpokdEeaGI-58" value="Bucket：srm-secret-files" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="870" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ueZprSyfjsTpokdEeaGI-59" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;Oracle(&lt;/font&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 14px;&quot;&gt;备&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;)&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="389" y="780" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
