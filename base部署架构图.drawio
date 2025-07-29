@@ -4,9 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="2ERbghcmN5stXeu5Aux5-0" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-799.5" y="2363" width="1644" height="1157" as="geometry" />
-        </mxCell>
         <mxCell id="2ERbghcmN5stXeu5Aux5-95" value="" style="curved=1;endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;dashed=1;strokeColor=#B3B3B3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2ERbghcmN5stXeu5Aux5-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="499.5" y="2985" as="sourcePoint" />
@@ -418,7 +415,7 @@
         <mxCell id="2ERbghcmN5stXeu5Aux5-10" value="&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;Path接入：http://&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; text-align: center; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;10.88.128.45&lt;/span&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;/srm-base-prod&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot; face=&quot;Helvetica&quot;&gt;-- 主要为后端服务的交互&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;域名接入：http://s.erp.didichuxing.com/srm-base&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;&lt;span style=&quot;font-family: Helvetica; background-color: transparent;&quot;&gt;--&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; background-color: transparent;&quot;&gt;主要为前端服务的交互&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="98.5" y="2814" width="296" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2ERbghcmN5stXeu5Aux5-11" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#808080;strokeWidth=1.5;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2ERbghcmN5stXeu5Aux5-8" target="2ERbghcmN5stXeu5Aux5-22">
+        <mxCell id="2ERbghcmN5stXeu5Aux5-11" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#B3B3B3;strokeWidth=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2ERbghcmN5stXeu5Aux5-8" target="2ERbghcmN5stXeu5Aux5-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="349.5" y="2854" as="sourcePoint" />
             <mxPoint x="-39.5" y="2942" as="targetPoint" />
@@ -430,7 +427,7 @@
         <mxCell id="2ERbghcmN5stXeu5Aux5-13" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=none;shape=mxgraph.alibaba_cloud.dns_domain_name_system;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="66.58999999999992" y="2637" width="50.83" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2ERbghcmN5stXeu5Aux5-14" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.151;exitY=0.79;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#808080;strokeWidth=1.5;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2ERbghcmN5stXeu5Aux5-13" target="2ERbghcmN5stXeu5Aux5-8">
+        <mxCell id="2ERbghcmN5stXeu5Aux5-14" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.151;exitY=0.79;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;strokeWidth=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2ERbghcmN5stXeu5Aux5-13" target="2ERbghcmN5stXeu5Aux5-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="188.5" y="2864" as="sourcePoint" />
             <mxPoint x="238.5" y="2814" as="targetPoint" />
@@ -753,6 +750,15 @@
         </mxCell>
         <mxCell id="2ERbghcmN5stXeu5Aux5-93" value="主库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="19.5" y="3213.5" width="45" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="2ERbghcmN5stXeu5Aux5-96" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.55;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;strokeWidth=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-569" y="2588" as="sourcePoint" />
+            <mxPoint x="-652" y="2588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ERbghcmN5stXeu5Aux5-97" value="灾备链路" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-640.5" y="2559" width="71.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
