@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="第 1 页" id="9c-sARDK_J_ERJkFSsrO">
-    <mxGraphModel dx="903" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1716" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,24 +8,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;" value="开始" vertex="1">
-          <mxGeometry height="40" width="40" x="300" y="120" as="geometry" />
+          <mxGeometry height="40" width="40" x="247" y="82" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-5" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-29" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="YrJtQRVxsrK0T32dkVSO-48" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="201.5" as="targetPoint" />
+            <mxPoint x="187" y="163.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;获取XX(billKey)&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;单号/ID&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="35" width="100" x="270" y="184" as="geometry" />
+          <mxGeometry height="35" width="100" x="217" y="146" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-7" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;判断billKey&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;是否存在&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="35" width="100" x="270" y="240" as="geometry" />
+          <mxGeometry height="35" width="100" x="217" y="202" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-11" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-10" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -44,19 +44,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="是否存在" vertex="1">
-          <mxGeometry height="37.5" width="100" x="270" y="300" as="geometry" />
+          <mxGeometry height="37.5" width="100" x="217" y="262" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-14" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-10" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="加锁" vertex="1">
-          <mxGeometry height="28.12" width="60" x="180" y="304.69" as="geometry" />
+          <mxGeometry height="28.12" width="60" x="127" y="266.69" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-16" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-13" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="二次检查" vertex="1">
-          <mxGeometry height="28.12" width="70" x="81" y="304.69" as="geometry" />
+          <mxGeometry height="28.12" width="70" x="28" y="266.69" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-18" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-17" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -70,37 +70,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="是否存在" vertex="1">
-          <mxGeometry height="30" width="97" x="67.5" y="360" as="geometry" />
+          <mxGeometry height="30" width="97" x="14.5" y="322" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-20" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-19" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-17" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;插入billKey&lt;/font&gt;" vertex="1">
-          <mxGeometry height="28.12" width="68" x="82" y="420" as="geometry" />
+          <mxGeometry height="28.12" width="68" x="29" y="382" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-22" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-19" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;刷新缓存&lt;/font&gt;" vertex="1">
-          <mxGeometry height="28.12" width="68" x="82" y="478" as="geometry" />
+          <mxGeometry height="28.12" width="68" x="29" y="440" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-78" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YrJtQRVxsrK0T32dkVSO-24" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="554" />
-              <mxPoint x="180" y="376" />
+              <mxPoint x="127" y="516" />
+              <mxPoint x="127" y="338" />
             </Array>
-            <mxPoint x="116" y="648.1199999999999" as="targetPoint" />
+            <mxPoint x="63" y="610.1199999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-21" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;释放锁&lt;/font&gt;" vertex="1">
-          <mxGeometry height="28.12" width="68" x="82" y="540" as="geometry" />
+          <mxGeometry height="28.12" width="68" x="29" y="502" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-31" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-30" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-24" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="获取路由标识" vertex="1">
-          <mxGeometry height="33.75" width="100" x="270" y="359" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="217" y="321" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-35" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-34" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -110,24 +110,28 @@
             <mxPoint x="-31" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-142" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-146" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="927" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-143" connectable="0" parent="YrJtQRVxsrK0T32dkVSO-142" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" value="&lt;font style=&quot;font-size: 13px; color: rgb(255, 51, 51);&quot;&gt;DB&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5439" y="1" as="geometry">
+            <mxPoint x="-27" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-30" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" value="选择模式" vertex="1">
-          <mxGeometry height="37.5" width="100" x="270" y="417.31" as="geometry" />
+          <mxGeometry height="37.5" width="100" x="217" y="379.31" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-41" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-40" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-34" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;redis获取id/单号&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="270" y="480.18" as="geometry" />
-        </mxCell>
-        <mxCell id="YrJtQRVxsrK0T32dkVSO-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1930" y="1494.88" as="sourcePoint" />
-            <mxPoint x="1930" y="280.88" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry height="33.75" width="100" x="217" y="442.18" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-43" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="YrJtQRVxsrK0T32dkVSO-34" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="558.75" as="targetPoint" />
+            <mxPoint x="397" y="520.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-44" connectable="0" parent="YrJtQRVxsrK0T32dkVSO-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" value="失败" vertex="1">
@@ -135,23 +139,29 @@
             <mxPoint x="-6" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1930" y="1494.88" as="sourcePoint" />
+            <mxPoint x="1930" y="280.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-73" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YrJtQRVxsrK0T32dkVSO-74" value="自动降级 且 i &amp;gt; 5">
           <mxGeometry relative="1" x="-0.1903" y="19" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="440" y="558.8" as="targetPoint" />
+            <mxPoint x="387" y="520.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-40" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="是否成功" vertex="1">
-          <mxGeometry height="37.5" width="100" x="270" y="540" as="geometry" />
+          <mxGeometry height="37.5" width="100" x="217" y="502" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-50" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-49" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="577.5" as="sourcePoint" />
+            <mxPoint x="267" y="539.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-51" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-49" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="577.5" as="sourcePoint" />
+            <mxPoint x="267" y="539.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-63" connectable="0" parent="YrJtQRVxsrK0T32dkVSO-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" value="成功" vertex="1">
@@ -160,94 +170,107 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-48" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;JVM缓存&lt;/font&gt;" vertex="1">
-          <mxGeometry height="28.12" width="60" x="180" y="187.44" as="geometry" />
+          <mxGeometry height="28.12" width="60" x="127" y="149.44" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-53" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-52" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-49" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;当前值&amp;gt;=缓存中该billKey的值&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="270" y="607" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="217" y="569" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-55" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-54" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-52" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;该billKey加锁&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="270" y="670" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="217" y="632" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-58" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-57" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-54" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;更新DB&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;value=val+step&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;switchTime&lt;/span&gt;&lt;font face=&quot;Helvetica&quot;&gt;=&lt;font style=&quot;&quot;&gt;timestamp&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="270" y="732" as="geometry" />
+          <mxGeometry height="50" width="100" x="217" y="694" as="geometry" />
         </mxCell>
-        <mxCell id="YrJtQRVxsrK0T32dkVSO-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="当前值+步长（500），避免频繁更新数据库&lt;div&gt;执行该update时，将当前value返回&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36.25" width="230" x="37" y="738.88" as="geometry" />
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="当前值+步长（500），&lt;div&gt;避免频繁更新数据库&lt;div&gt;执行该update时，将当前value返回&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.25" width="187" x="27" y="700.88" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-60" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-59" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-57" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;放入缓存&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="270" y="811" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="217" y="773" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-71" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-70" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-59" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;释放锁&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="270" y="871" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="217" y="833" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="i++ &amp;amp;&amp;amp; i&amp;lt;=5" vertex="1">
-          <mxGeometry height="30" width="80" x="178" y="506.12" as="geometry" />
+          <mxGeometry height="30" width="80" x="125" y="468.12" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;End&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="300" y="931" as="geometry" />
+          <mxGeometry height="40" width="40" x="247" y="893" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-80" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-74" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-79" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-74" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;CAS &lt;/font&gt;&lt;span style=&quot;font-family: Helvetica; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;标识&lt;/span&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="479" y="259.13" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="393" y="421" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-82" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-79" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-81" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-79" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;修改模式为DB&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="479" y="322.25" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="393" y="484.12" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-87" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-81" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-86" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-81" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;刷新缓存&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="479" y="388.25" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="393" y="550.12" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-144" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-83" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="706" />
+            </Array>
+            <mxPoint x="540" y="402" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-145" connectable="0" parent="YrJtQRVxsrK0T32dkVSO-144" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" value="DB获取" vertex="1">
+          <mxGeometry relative="1" x="-0.9322" y="1" as="geometry">
+            <mxPoint x="14" y="8" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-83" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;CAS 标识&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="479" y="527.25" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="393" y="689.12" as="geometry" />
         </mxCell>
-        <mxCell id="YrJtQRVxsrK0T32dkVSO-89" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="YrJtQRVxsrK0T32dkVSO-88" value="异步">
-          <mxGeometry relative="1" x="-0.5952" y="14" as="geometry">
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-89" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" target="YrJtQRVxsrK0T32dkVSO-88" value="异步">
+          <mxGeometry relative="1" x="-0.7779" y="-15" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="579" y="512.125" as="sourcePoint" />
+            <mxPoint x="493" y="673.995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-90" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-83" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-86" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;启动redis健康检测线程&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="479" y="457.25" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="393" y="619.12" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-97" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-88" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-96" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-88" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;启动redis健康检测线程&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="661" y="495.25" as="geometry" />
-        </mxCell>
-        <mxCell id="YrJtQRVxsrK0T32dkVSO-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="转为DB获取ID" vertex="1">
-          <mxGeometry height="30" width="91" x="440" y="558.25" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="575" y="657.12" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-103" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-102" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="转为DB获取ID" vertex="1">
+          <mxGeometry height="30" width="91" x="440" y="558.25" as="geometry" />
+        </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-94" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;redis ping&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="661" y="689.38" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="575" y="851.25" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-100" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-96" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-99" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -260,10 +283,10 @@
         <mxCell id="YrJtQRVxsrK0T32dkVSO-136" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-96" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="YrJtQRVxsrK0T32dkVSO-133" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="580.25" />
-              <mxPoint x="810" y="952.25" />
+              <mxPoint x="724" y="742.12" />
+              <mxPoint x="724" y="1114.12" />
             </Array>
-            <mxPoint x="841" y="580.25" as="targetPoint" />
+            <mxPoint x="755" y="742.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-137" connectable="0" parent="YrJtQRVxsrK0T32dkVSO-136" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" value="redis" vertex="1">
@@ -272,7 +295,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-96" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;模式=DB&lt;/font&gt;" vertex="1">
-          <mxGeometry height="37.5" width="100" x="661" y="561.5" as="geometry" />
+          <mxGeometry height="37.5" width="100" x="575" y="723.37" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-101" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-99" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-94" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -286,11 +309,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-99" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 10px;&quot;&gt;switchTime-timestamp&amp;lt;0&lt;/font&gt;" vertex="1">
-          <mxGeometry height="37.5" width="100" x="661" y="626.25" as="geometry" />
+          <mxGeometry height="37.5" width="100" x="575" y="788.12" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-105" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-102" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="YrJtQRVxsrK0T32dkVSO-94" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="841" y="772.125" as="targetPoint" />
+            <mxPoint x="755" y="933.995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-106" connectable="0" parent="YrJtQRVxsrK0T32dkVSO-105" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;i &amp;lt; 5&lt;/font&gt;" vertex="1">
@@ -310,46 +333,276 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-102" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;连续5次成功&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36.25" width="99" x="662" y="754" as="geometry" />
+          <mxGeometry height="36.25" width="99" x="576" y="915.87" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-117" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-114" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.09;entryY=0.473;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="YrJtQRVxsrK0T32dkVSO-96" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="579.25" />
+              <mxPoint x="514" y="741.12" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-114" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;await(1小时)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="80" x="560" y="755.25" as="geometry" />
+          <mxGeometry height="33.75" width="80" x="474" y="917.12" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-130" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-120" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-129" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-120" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;修改模式为Redis&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DArchitects%20Daughter%3Brounded%3D1%3BhachureGap%3D4%3BfontSource%3Dhttps%253A%252F%252Ffonts.googleapis.com%252Fcss%253Ffamily%253DArchitects%252BDaughter%3B%22%20value%3D%22%26lt%3Bfont%20face%3D%26quot%3BHelvetica%26quot%3B%26gt%3Bawait(1%E5%B0%8F%E6%97%B6)%26lt%3B%2Ffont%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2233.75%22%20width%3D%2280%22%20x%3D%22550%22%20y%3D%221000%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="662" y="815.25" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="576" y="977.1199999999999" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-134" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-129" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-133" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-129" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;更新缓存&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="661" y="875.25" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="575" y="1037.12" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-131" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;await(s-t)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="80" x="558" y="628.12" as="geometry" />
+          <mxGeometry height="33.75" width="80" x="472" y="789.99" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-133" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;线程结束&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33.75" width="100" x="661" y="935.25" as="geometry" />
+          <mxGeometry height="33.75" width="100" x="575" y="1097.12" as="geometry" />
         </mxCell>
         <mxCell id="YrJtQRVxsrK0T32dkVSO-139" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="396" y="1344" as="sourcePoint" />
-            <mxPoint x="396" y="130" as="targetPoint" />
+            <mxPoint x="343" y="1150" as="sourcePoint" />
+            <mxPoint x="343" y="22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YrJtQRVxsrK0T32dkVSO-140" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;" value="">
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-140" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;exitX=0.418;exitY=-0.241;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="834" y="1353.87" as="sourcePoint" />
-            <mxPoint x="834" y="139.87" as="targetPoint" />
+            <mxPoint x="746.1199999999997" y="1150.072" as="sourcePoint" />
+            <mxPoint x="747" y="42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-148" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-146" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-151" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="908" y="398.8947368421053" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-146" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;判断模式=DB&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="780" y="382" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-153" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-151" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="YrJtQRVxsrK0T32dkVSO-154" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860.0526315789475" y="470.1199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-157" connectable="0" parent="YrJtQRVxsrK0T32dkVSO-153" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3495" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-151" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;是否使用缓存&lt;/font&gt;" vertex="1">
+          <mxGeometry height="37.5" width="100" x="907" y="380.12" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-160" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-154" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-159" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-154" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;递增步长=1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="826" y="466.24999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-162" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-155" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-161" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-155" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;递增步长&amp;gt;1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="994" y="466.24" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-156" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-151" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="YrJtQRVxsrK0T32dkVSO-155" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1007" y="462" as="sourcePoint" />
+            <mxPoint x="910" y="518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-158" connectable="0" parent="YrJtQRVxsrK0T32dkVSO-156" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;是&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2939" y="1" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-175" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-159" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="YrJtQRVxsrK0T32dkVSO-173" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="881" y="564" />
+              <mxPoint x="881" y="916" />
+            </Array>
+            <mxPoint x="870" y="643.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-159" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;DB value+1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="826" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-164" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-161" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-163" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-161" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;通过billKey从缓存中获取value&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="994" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-166" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-163" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-165" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-163" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;缓存是否为空&lt;/font&gt;" vertex="1">
+          <mxGeometry height="37.5" width="100" x="994" y="590.87" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-168" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-165" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-167" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-165" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;加锁&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="994" y="652.87" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-170" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-167" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-169" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-167" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;DB value+ step&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="994" y="710.25" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-172" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-169" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-171" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-169" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;将value循环放入Queue&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="994" y="773" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-176" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-171" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-173" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-178" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-171" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-177" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-171" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;释放锁&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="994" y="833" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-180" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-173" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-179" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-173" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;返回ID/单号&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="994" y="899.25" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-183" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-177" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-182" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-177" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;缓存预加载&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;当step&amp;gt;1000，且缓存可用量&amp;lt;1/3时&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="39" width="210" x="1141" y="830.38" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-179" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;End&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="1024" y="962" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-185" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-182" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" target="YrJtQRVxsrK0T32dkVSO-184" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-186" connectable="0" parent="YrJtQRVxsrK0T32dkVSO-185" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" value="异步" vertex="1">
+          <mxGeometry relative="1" x="-0.6193" as="geometry">
+            <mxPoint x="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-182" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;CAS 加锁billKey&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="1196" y="760.87" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-191" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-184" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.099;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="YrJtQRVxsrK0T32dkVSO-187" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1246" y="664" />
+            </Array>
+            <mxPoint x="1246" y="614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-192" connectable="0" parent="YrJtQRVxsrK0T32dkVSO-191" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" value="预加载" vertex="1">
+          <mxGeometry relative="1" x="-0.7714" y="3" as="geometry">
+            <mxPoint x="28" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-184" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;CAS 加锁billKey&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="1196" y="694.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-187" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="242.26" width="137" x="974" y="639.74" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-193" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;exitX=0.755;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1366.1999999999998" y="1152.136" as="sourcePoint" />
+            <mxPoint x="1367" y="52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-194" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1637" y="1152" as="sourcePoint" />
+            <mxPoint x="1637" y="34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-207" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-195" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-198" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-195" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;" value="开始" vertex="1">
+          <mxGeometry height="40" width="40" x="1478" y="337.75" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-201" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-198" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YrJtQRVxsrK0T32dkVSO-208" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1498" y="522.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-210" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-198" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YrJtQRVxsrK0T32dkVSO-199" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1374" y="425.625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-198" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;系统启动后&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;初始化缓存&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="1448" y="408.75" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-203" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-199" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-202" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-199" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;billKey List记录&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;系统参数配置&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="1378" y="496.75" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-205" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-202" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" target="YrJtQRVxsrK0T32dkVSO-204" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-206" connectable="0" parent="YrJtQRVxsrK0T32dkVSO-205" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" value="异步" vertex="1">
+          <mxGeometry relative="1" x="-0.6797" y="2" as="geometry">
+            <mxPoint x="14" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-202" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;开启定时任务&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;每1分钟刷新一次&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="1378" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-204" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;刷新billKey List&lt;br&gt;刷新系统参数&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="1378" y="630.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-214" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-208" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="YrJtQRVxsrK0T32dkVSO-211" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-208" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;判断模式是否为DB&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="1519" y="497.75" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-213" edge="1" parent="1" source="YrJtQRVxsrK0T32dkVSO-211" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" target="YrJtQRVxsrK0T32dkVSO-212" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-211" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;开启异步任务&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Redis健康检查&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="1519" y="561" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-212" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;ping Redis&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;恢复则切换Redis&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="33.75" width="100" x="1519" y="630.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-215" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;exitX=0.02;exitY=0.19;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="13.799999999999955" y="1153.5199999999998" as="sourcePoint" />
+            <mxPoint x="15" y="32" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-216" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Redis获取流程" vertex="1">
+          <mxGeometry height="30" width="328.5" x="14.5" y="22" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-217" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="降级/恢复流程" vertex="1">
+          <mxGeometry height="30" width="404" x="343" y="22" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-218" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DB获取流程" vertex="1">
+          <mxGeometry height="30" width="620" x="747" y="22" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-219" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="辅助线程" vertex="1">
+          <mxGeometry height="30" width="270" x="1367" y="22" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJtQRVxsrK0T32dkVSO-222" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;exitX=0.021;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="15.6400000000001" y="1152" as="sourcePoint" />
+            <mxPoint x="1637" y="1152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
