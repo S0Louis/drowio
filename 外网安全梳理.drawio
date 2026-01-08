@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
   <diagram name="第 1 页" id="7Br5XCKzLh2WV4xrA637">
-    <mxGraphModel dx="1758" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1456" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X9hH7jSHZxZIZoUGcOCm-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;spacingTop=0;spacingBottom=1;fontFamily=Verdana;spacingLeft=-1;" value="&lt;ul&gt;&lt;li&gt;HTTPS协议；&lt;/li&gt;&lt;li&gt;WAF拦截：SQL注入、XSS注入等；&lt;/li&gt;&lt;li&gt;kylin限流：300QPS/s；&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="X9hH7jSHZxZIZoUGcOCm-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;spacingTop=0;spacingBottom=1;fontFamily=Verdana;spacingLeft=-1;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;HTTPS协议；&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;WAF拦截：SQL注入、XSS注入等；&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;kylin限流：200QPS/s；&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="67" width="286" x="364.62" y="186.5" as="geometry" />
         </mxCell>
         <mxCell id="X9hH7jSHZxZIZoUGcOCm-19" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="安全防护" vertex="1">
@@ -13,7 +13,7 @@
         <mxCell id="X9hH7jSHZxZIZoUGcOCm-20" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="请求流程" vertex="1">
           <mxGeometry height="40" width="100" x="155.63" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="X9hH7jSHZxZIZoUGcOCm-21" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="安全预警" vertex="1">
+        <mxCell id="X9hH7jSHZxZIZoUGcOCm-21" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="安全监控" vertex="1">
           <mxGeometry height="40" width="100" x="-90" y="30" as="geometry" />
         </mxCell>
         <mxCell id="X9hH7jSHZxZIZoUGcOCm-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="协同前端" vertex="1">
@@ -53,16 +53,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X9hH7jSHZxZIZoUGcOCm-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;spacingTop=0;spacingBottom=1;fontFamily=Verdana;spacingLeft=-1;" value="&lt;ul&gt;&lt;li&gt;Passport ticket校验；&lt;/li&gt;&lt;li&gt;Token签名验证+请求有效期校验；&lt;/li&gt;&lt;li&gt;接口防重放校验；&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;角色操作权限校验；&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="115" width="325.69" x="364.31" y="272.5" as="geometry" />
+          <mxGeometry height="115" width="325.69" x="364.31" y="270.5" as="geometry" />
         </mxCell>
         <mxCell id="X9hH7jSHZxZIZoUGcOCm-29" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#CCCCCC;strokeColor=none;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="285.63" y="331.52" as="sourcePoint" />
-            <mxPoint x="355.63" y="331.52" as="targetPoint" />
+            <mxPoint x="285.63" y="329.52" as="sourcePoint" />
+            <mxPoint x="355.63" y="329.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9hH7jSHZxZIZoUGcOCm-30" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="安全场景" vertex="1">
-          <mxGeometry height="40" width="100" x="750" y="30" as="geometry" />
+        <mxCell id="X9hH7jSHZxZIZoUGcOCm-31" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#CCCCCC;strokeColor=none;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="127" y="329.63" as="sourcePoint" />
+            <mxPoint x="60" y="329.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9hH7jSHZxZIZoUGcOCm-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;horizontal=1;textDirection=rtl;" value="&lt;ul&gt;&lt;li&gt;QPS&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="-80" y="235" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
